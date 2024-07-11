@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anup Prajapati.</h1>
 <h3 align="center">A passionate web developer from Bhaktapur</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm55eXVleTI1bHEya3RtNTY5emM4Mzg3NjFtbHlmZW5tYnF1ZzlhNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="Coding" width="600" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm55eXVleTI1bHEya3RtNTY5emM4Mzg3NjFtbHlmZW5tYnF1ZzlhNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anup4115&label=Profile%20views&color=0e75b6&style=flat" alt="anup4115" /> </p>
 
 <p align="left"> <a href="https://twitter.com/anuppra03086660" target="blank"><img src="https://img.shields.io/twitter/follow/anuppra03086660?logo=twitter&style=for-the-badge" alt="anuppra03086660" /></a> </p>
